@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\kazum\OneDrive\ドキュメント\★Tech0\PosApp\Back\venv
+set VIRTUAL_ENV=C:\Users\kazum\OneDrive\ドキュメント\★Tech0\Pos_App\Back\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
